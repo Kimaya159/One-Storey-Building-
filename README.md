@@ -41,10 +41,10 @@ This repository contains the files and resources for a 3D residential model crea
 ## Screenshots
 
 ### Front View
-![Front View](Front View.jpg)
+![Front View](/Front View.jpg)
 
 ### Isometric View
-![Isometric View](Isometric View.jpg)
+![Isometric View](/Isometric View.jpg)
 
 ## Contributions
 
