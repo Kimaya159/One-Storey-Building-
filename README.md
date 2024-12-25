@@ -44,7 +44,7 @@ This repository contains the files and resources for a 3D residential model crea
 ![Front View](https://github.com/Kimaya159/One-Storey-Building-/blob/main/Front%20View.png)
 
 ### Isometric View
-![Isometric View](#Isometric View.jpg)
+![Isometric View](https://github.com/Kimaya159/One-Storey-Building-/blob/main/Isometric%20View.png)
 
 ## Contributions
 
