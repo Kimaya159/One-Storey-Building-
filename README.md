@@ -1,22 +1,22 @@
-# 3D Architectural Model in AutoCAD
+# 3D Residential Model in AutoCAD
 
-![Project Preview](link.jpg)
+![Project Preview](link-to-your-image.jpg)
 
-This repository contains the files and resources for a 3D architectural model created using *AutoCAD*. The model showcases a modern residential building design with realistic structural elements.
+This repository contains the files and resources for a 3D residential model created using *AutoCAD*. The design highlights a modern house layout with a focus on external and structural details.
 
 ## Features
 
-- *Detailed Exterior*: Includes walls, windows, doors, and balcony structures.
-- *Modern Design Elements*: Features contemporary color schemes and design aesthetics.
-- *Realistic Rendering*: Rendered using AutoCAD's realistic visual styles.
-- *3D Visualization*: Supports multiple perspectives and views for better understanding.
+- *Open Exterior Design*: Includes windows, doors, and staircases.
+- *Landscape Integration*: A green landscape surrounding the house for enhanced visualization.
+- *Detailed Structure*: Realistic materials and structural components for accurate presentation.
+- *Multiple Views*: Supports visualization from different angles to understand the model better.
 
 ## Getting Started
 
 ### Prerequisites
 
 - *AutoCAD 2023* (or later) installed on your system.
-- A basic understanding of AutoCAD 3D modeling.
+- Basic knowledge of AutoCAD 3D design and navigation.
 
 ### Installation
 
@@ -29,13 +29,13 @@ This repository contains the files and resources for a 3D architectural model cr
 ### Usage
 
 1. Load the project file into AutoCAD.
-2. Navigate to different views (e.g., front, side, isometric).
-3. Modify the design as per your requirements.
+2. Explore different views (top, side, isometric) to analyze the structure.
+3. Customize or enhance the model as per your requirements.
 
 ## File Structure
 
-- *model.dwg*: The main AutoCAD project file.
-- *screenshots/*: Contains images of the model from various angles.
+- *residential_model.dwg*: The primary AutoCAD file for the residential project.
+- *screenshots/*: Contains preview images of the model.
 - *README.md*: Documentation for the project.
 
 ## Screenshots
@@ -44,11 +44,11 @@ This repository contains the files and resources for a 3D architectural model cr
 ![Front View](link-to-your-front-view.jpg)
 
 ### Isometric View
-![Isometric View](link-to-your-isometric-view.jpg)
+![Isometric View](link-to-your-Isometric-view.jpg)
 
 ## Contributions
 
-Contributions are welcome! If you have suggestions or want to add more features, please create a pull request.
+Contributions are welcome! If you have ideas for improvement or want to add more details, feel free to open a pull request.
 
 ## License
 
@@ -58,5 +58,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Author
 
-Kimaya
-- GitHub: [@your-username](https://github.com/Kimaya159)
+*Your Name*  
+- GitHub: [Kimaya159](https://github.com/Kimaya159)
