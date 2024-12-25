@@ -1,6 +1,6 @@
 # 3D Residential Model in AutoCAD
 
-![Project Preview](link-to-your-image.jpg)
+
 
 This repository contains the files and resources for a 3D residential model created using *AutoCAD*. The design highlights a modern house layout with a focus on external and structural details.
 
